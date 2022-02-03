@@ -4100,6 +4100,7 @@ textarea.form-control-lg {
   .navbar-toggler {
     transition: none;
     background-color: #000;
+    
   }
 }
 .navbar-toggler:hover {
